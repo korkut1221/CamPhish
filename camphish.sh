@@ -302,6 +302,8 @@ fi
 server
 payload
 checkfound
+01
+01
 
 }
 
